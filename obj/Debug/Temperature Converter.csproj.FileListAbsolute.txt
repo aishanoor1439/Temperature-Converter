@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+C:\Users\ABC\source\repos\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Users\ABC\source\repos\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Users\ABC\source\repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.exe
+C:\Users\ABC\source\repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.pdb
